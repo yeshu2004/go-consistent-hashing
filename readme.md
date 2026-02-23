@@ -6,3 +6,8 @@ Run with:
 go test -v -race ./...
 
 go test -bench=. -benchmem ./...
+<<<<<<< HEAD
+=======
+
+#### Reference: [link](https://arpitbhayani.me/blogs/consistent-hashing/)
+>>>>>>> b63b20b (attached reference link)
